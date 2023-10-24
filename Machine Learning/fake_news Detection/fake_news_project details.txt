@@ -1,0 +1,16 @@
+
+news dataset -> data preprocessing : to convert textual data into numerical data -> split data into training and test data
+feed training data to logistic regression model : we use lr because it is binary classification project : real or fake
+
+numpy->useful for creating numpy array
+pandas->useful for creating data frames and storing the data in the data frame
+regular expression(re)->searching words in a document
+nltk-> natural language toolkit
+corpus-> important content of the text , 
+stopwords-> doesnot add much value to our para or text (eg: articles,var etc)
+stemming-> remove the prefix and sufix of a word and return the root word
+TfidfVectorizer-> this function convert text into feature vectors(feature vectors are numbers)
+train_test_split-> split data into training data and test data
+LogisticRegression-> 
+
+
